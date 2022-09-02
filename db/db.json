@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "ayush",
+      "email": "ayush@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "test123@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "123123",
+      "id": 3
+    }
+  ],
+  "restaurents": [
+    {
+      "name": "demo resto",
+      "contact": "1234567890",
+      "address": "demo location",
+      "id": 1
+    },
+    {
+      "name": "rcb resto ",
+      "contact": "9876543210",
+      "address": "bangaluru",
+      "id": 2
+    }
+  ]
+}
